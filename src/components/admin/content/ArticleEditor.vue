@@ -50,7 +50,6 @@
 
 <script>
   import ImgUpload from './ImgUpload'
-
   export default {
     name: 'Editor',
     components: {ImgUpload},
