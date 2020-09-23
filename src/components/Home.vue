@@ -11,7 +11,6 @@
     components: {NavMenu}
   }
 </script>
-
 <style>
   .nav-menu {
     /*margin-bottom: 40px;*/
